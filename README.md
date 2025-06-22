@@ -28,5 +28,5 @@ The project uses the following technologies:
 To start using the project on your local machine:
 
 ```bash
-git clone https://github.com/nikpirat/news-article-analyzer.git
-cd news-article-analyzer
+git clone https://github.com/nikpirat/news_scraper_project.git
+cd news_scraper_project
